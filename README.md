@@ -1,6 +1,7 @@
 # CI/CD Workshop - Day 2: GitHub Actions
 
 This workshop demonstrates progressive CI/CD pipeline implementation using GitHub Actions.
+testing
 
 ## Project Structure
 
